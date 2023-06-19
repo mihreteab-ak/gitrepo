@@ -1,0 +1,3 @@
+# Git training
+
+Some text
